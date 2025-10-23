@@ -1,0 +1,90 @@
+{
+  "minecraft": {
+    "version": "1.21.10",
+    "modLoaders": [
+      {
+        "id": "fabric-0.17.3",
+        "primary": true
+      }
+    ],
+    "recommendedRam": 7008
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Pixel Odyssey",
+  "version": "",
+  "author": "",
+  "files": [
+    {
+      "projectID": 531761,
+      "fileID": 7078195,
+      "required": true
+    },
+    {
+      "projectID": 460682,
+      "fileID": 7042987,
+      "required": true
+    },
+    {
+      "projectID": 1341517,
+      "fileID": 7073231,
+      "required": true
+    },
+    {
+      "projectID": 676136,
+      "fileID": 7106598,
+      "required": true
+    },
+    {
+      "projectID": 548539,
+      "fileID": 7052418,
+      "required": true
+    },
+    {
+      "projectID": 634062,
+      "fileID": 7094391,
+      "required": true
+    },
+    {
+      "projectID": 241160,
+      "fileID": 7083460,
+      "required": true
+    },
+    {
+      "projectID": 416089,
+      "fileID": 7117189,
+      "required": true
+    },
+    {
+      "projectID": 407206,
+      "fileID": 7124837,
+      "required": true
+    },
+    {
+      "projectID": 686911,
+      "fileID": 7078186,
+      "required": true
+    },
+    {
+      "projectID": 306612,
+      "fileID": 7120309,
+      "required": true
+    },
+    {
+      "projectID": 394468,
+      "fileID": 7088176,
+      "required": true
+    },
+    {
+      "projectID": 1121047,
+      "fileID": 5809688,
+      "required": true
+    },
+    {
+      "projectID": 455508,
+      "fileID": 7088028,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
